@@ -71,22 +71,22 @@ input::placeholder {
 .pro-2 .lower {
 	justify-content: space-between;
 }
-.pro-2 .lower span:nth-of-type(1),
-.pro-2 .lower span:nth-of-type(4) {
+.pro-2 .lower aside:nth-of-type(1),
+.pro-2 .lower aside:nth-of-type(4) {
 	background-color: #ebebeb;
 	padding: 10px 14px;
 	border-radius: 20px;
 	cursor: pointer;
 }
-.pro-2 .lower span:nth-of-type(4) {
+.pro-2 .lower aside:nth-of-type(4) {
 	background-color: #d85d45;
 	color: #fff;
 }
 
-.pro-2 .lower span img {
+.pro-2 .lower aside img {
 	display: block;
 }
-.pro-1 .lower span:nth-of-type(1) {
+.pro-1 .lower aside:nth-of-type(1) {
 	/* display: flex;
 	gap: 10px;
 	align-items: center; */
@@ -95,7 +95,7 @@ input::placeholder {
 	cursor: pointer;
 	border-radius: 22px;
 }
-.pro-1 .lower span:nth-of-type(2) {
+.pro-1 .lower aside:nth-of-type(2) {
 	display: flex;
 	gap: 10px;
 	align-items: center;
